@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\RungeKutt4\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\RungeKutt4\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
